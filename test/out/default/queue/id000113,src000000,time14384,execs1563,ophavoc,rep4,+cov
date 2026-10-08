@@ -1,0 +1,3 @@
+GET / HTTP/111fuzz
+Connction:close
+

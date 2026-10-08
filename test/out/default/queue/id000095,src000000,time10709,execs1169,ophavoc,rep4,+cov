@@ -1,0 +1,4 @@
+GET / HTTP/1.1
+Hos_: fuzz
+Connecêion: cose
+'

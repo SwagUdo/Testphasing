@@ -1,0 +1,5 @@
+GET / HTTP/1.1
+Åost: fuz\
+Con/1.1
+Åost: fuz\nection: clo[e
+

@@ -1,0 +1,6 @@
+
+Connection: close
+GET ? \TTP/1.1
+Host: fuzz
+ConneTtion: close
+
